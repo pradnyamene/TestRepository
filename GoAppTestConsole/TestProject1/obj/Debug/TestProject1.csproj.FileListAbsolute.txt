@@ -1,0 +1,5 @@
+D:\GoTestProjects\GoAppTestConsole\TestProject1\bin\Debug\TestProject1.dll
+D:\GoTestProjects\GoAppTestConsole\TestProject1\bin\Debug\TestProject1.pdb
+D:\GoTestProjects\GoAppTestConsole\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\GoTestProjects\GoAppTestConsole\TestProject1\obj\Debug\TestProject1.dll
+D:\GoTestProjects\GoAppTestConsole\TestProject1\obj\Debug\TestProject1.pdb
