@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\TestApplication\TestApplication\bin\TestApplication.dll
+c:\users\dell\documents\visual studio 2010\Projects\TestApplication\TestApplication\bin\TestApplication.pdb
+c:\users\dell\documents\visual studio 2010\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.dll
+c:\users\dell\documents\visual studio 2010\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
