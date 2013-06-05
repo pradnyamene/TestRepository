@@ -10,7 +10,7 @@ namespace ConsoleApp_Test
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hey There");
-            Console.ReadLine();
+            Console.ReadLine();//check if this is required
         }
     }
 }
