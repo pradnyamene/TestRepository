@@ -1,0 +1,5 @@
+D:\Nachiket_Clarice\SnapAV\GitTestRepo\TestRepository\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\ConsoleApp_Test.exe
+D:\Nachiket_Clarice\SnapAV\GitTestRepo\TestRepository\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\ConsoleApp_Test.pdb
+D:\Nachiket_Clarice\SnapAV\GitTestRepo\TestRepository\ConsoleApp_Test\ConsoleApp_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nachiket_Clarice\SnapAV\GitTestRepo\TestRepository\ConsoleApp_Test\ConsoleApp_Test\obj\x86\Debug\ConsoleApp_Test.exe
+D:\Nachiket_Clarice\SnapAV\GitTestRepo\TestRepository\ConsoleApp_Test\ConsoleApp_Test\obj\x86\Debug\ConsoleApp_Test.pdb
